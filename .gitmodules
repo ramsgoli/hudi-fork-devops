@@ -1,8 +1,8 @@
-[submodule "hudi_0.15.0"]
-	path = hudi_0.15.0
-	url = https://github.com/ramsgoli/hudi
-	branch = release-0.15.0-heap-fork
 [submodule "hudi_0.13.1"]
 	path = hudi_0.13.1
-	url = https://github.com/ramsgoli/hudi
+	url = https://github.com/heap/hudi
 	branch = release-0.13.1-heap-fork
+[submodule "hudi_0.15.0"]
+	path = hudi_0.15.0
+	url = https://github.com/heap/hudi
+	branch = release-0.15.0-heap-fork
